@@ -1,6 +1,6 @@
 import React from 'react';
 import PrivacyPolicy from './components/PrivacyPolicy';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
 function App() {
   return (
